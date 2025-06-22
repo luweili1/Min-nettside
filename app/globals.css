@@ -42,30 +42,30 @@ body {
   }
 
   .dark {
-    --background: 222.2 84% 4.9%;
-    --foreground: 210 40% 98%;
-    --card: 222.2 84% 4.9%;
-    --card-foreground: 210 40% 98%;
-    --popover: 222.2 84% 4.9%;
-    --popover-foreground: 210 40% 98%;
-    --primary: 210 40% 98%;
-    --primary-foreground: 222.2 47.4% 11.2%;
-    --secondary: 217.2 32.6% 17.5%;
-    --secondary-foreground: 210 40% 98%;
-    --muted: 217.2 32.6% 17.5%;
-    --muted-foreground: 215 20.2% 65.1%;
-    --accent: 217.2 32.6% 17.5%;
-    --accent-foreground: 210 40% 98%;
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 210 40% 98%;
-    --border: 217.2 32.6% 17.5%;
-    --input: 217.2 32.6% 17.5%;
-    --ring: 212.7 26.8% 83.9%;
-    --chart-1: 220 70% 50%;
-    --chart-2: 160 60% 45%;
-    --chart-3: 30 80% 55%;
-    --chart-4: 280 65% 60%;
-    --chart-5: 340 75% 55%;
+    --background: 220 30% 20%; /* Mørkere blå bakgrunn */
+    --foreground: 210 40% 98%; /* Lys tekst */
+    --card: 220 30% 20%; /* Mørkere blå kort */
+    --card-foreground: 210 40% 98%; /* Lys tekst på kort */
+    --popover: 220 30% 20%; /* Mørkere blå popover */
+    --popover-foreground: 210 40% 98%; /* Lys tekst på popover */
+    --primary: 210 40% 98%; /* Primær farge */
+    --primary-foreground: 222.2 47.4% 11.2%; /* Tekst på primær farge */
+    --secondary: 217.2 32.6% 17.5%; /* Sekundær farge */
+    --secondary-foreground: 210 40% 98%; /* Tekst på sekundær farge */
+    --muted: 217.2 32.6% 17.5%; /* Muted farge */
+    --muted-foreground: 215 20.2% 65.1%; /* Tekst på muted farge */
+    --accent: 217.2 32.6% 17.5%; /* Accent farge */
+    --accent-foreground: 210 40% 98%; /* Tekst på accent farge */
+    --destructive: 0 62.8% 30.6%; /* Destruktiv farge */
+    --destructive-foreground: 210 40% 98%; /* Tekst på destruktiv farge */
+    --border: 217.2 32.6% 17.5%; /* Border farge */
+    --input: 217.2 32.6% 17.5%; /* Input farge */
+    --ring: 212.7 26.8% 83.9%; /* Ring farge */
+    --chart-1: 220 70% 50%; /* Diagram farge 1 */
+    --chart-2: 160 60% 45%; /* Diagram farge 2 */
+    --chart-3: 30 80% 55%; /* Diagram farge 3 */
+    --chart-4: 280 65% 60%; /* Diagram farge 4 */
+    --chart-5: 340 75% 55%; /* Diagram farge 5 */
   }
 }
 
